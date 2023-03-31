@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: {{ InnovData }} Redéfinir les frontières de demain avec la data et l'innovation
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Captain Harlock"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Driven by a passion for data exploration and innovation, I shape a bold digital future by pushing the boundaries of technology."
+  bio    : "Passionné par l'exploration de l'univers des données et l'innovation, je façonne un futur numérique audacieux en repoussant les frontières de la technologie. Driven by a passion for data exploration and innovation, I shape a bold digital future by pushing the boundaries of technology."
   links:
     - label: "Website"
       icon: "www.dblink.fr"
