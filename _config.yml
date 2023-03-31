@@ -60,10 +60,10 @@ plugins:
 author:
   name   : "Captain Harlock"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Driven by a passion for data exploration and innovation, I shape a bold digital future by pushing the boundaries of technology."
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "www.dblink.fr"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
